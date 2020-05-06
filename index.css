@@ -1,0 +1,64 @@
+body{
+        text-align: center;
+}
+
+.one {    border-color: black;
+    background-color:green; 
+    color: white;
+}
+
+.two {
+border-color: black; 
+background-color:orange; 
+color: white;
+}
+
+.three {
+border-color : black;
+background-color :red; 
+color: white;"
+}    
+
+.last{
+    
+    background-color: purple;
+    color: white;
+    align-content: center;
+    border-color: black;
+}
+
+span{
+    font-family: 'Modak', cursive;
+    color: orangered;
+}
+
+h1{
+    font-family: 'Modak', cursive;
+    font-weight: 200 ;
+}
+
+ span.z{
+    color:purple;
+}
+
+h3{
+    color: seagreen;
+    font-family: 'Eater', cursive;
+    font-weight: 200;
+    margin : 0;
+    padding : 0;
+
+    
+}
+
+h6{
+    font-family: Eater;
+    color: red;
+    
+}
+
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
